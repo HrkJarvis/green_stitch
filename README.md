@@ -1,5 +1,5 @@
 # green_stitch
-# How to use this code?<br />
+# How to run this project<br />
 Make sure you have Java 8 and Maven installed<br />
 
 Fork this repository and clone it <br />
